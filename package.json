@@ -1,0 +1,23 @@
+{
+  "name": "generate-random-number",
+  "version": "1.0.0",
+  "description": "this is an npm package that lets you generate random number",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nayab-Sarfaraj/generate-random-number.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Nayab Sarfaraj",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Nayab-Sarfaraj/generate-random-number/issues"
+  },
+  "homepage": "https://github.com/Nayab-Sarfaraj/generate-random-number#readme"
+}
